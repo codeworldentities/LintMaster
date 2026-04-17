@@ -1,0 +1,40 @@
+<!-- Auto-generated: responsive — responsive v2710 -->
+<div class="responsive-—-responsive-2710">
+  <header class="section">
+    <h2>responsive — responsive</h2>
+    <nav class="nav-2710">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="grid">
+    <div class="content">
+      <p>Generated component for responsive — responsive</p>
+      <span class="badge badge-2710">v2710</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.responsive-—-responsive-2710 {
+  display: grid;
+  flex-direction: column;
+  gap: 13px;
+  padding: 23px;
+  background: #f34c3f;
+  border-radius: 15px;
+  border: 1px solid #65f3f2;
+}
+.responsive-—-responsive-2710 .section {
+  color: #d93834;
+  font-size: 16px;
+  font-weight: 500;
+}
+.badge-2710 {
+  background: #65f3f2;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 9px;
+  font-size: 14px;
+}
+</style>
